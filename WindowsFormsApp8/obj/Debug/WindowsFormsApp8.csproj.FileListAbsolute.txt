@@ -1,0 +1,10 @@
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\iSpan\Desktop\winform\CSharp-WinForm-iSpan\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
