@@ -1,0 +1,21 @@
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\bin\Debug\SimpleOrderSys.exe.config
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\bin\Debug\SimpleOrderSys.exe
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\bin\Debug\SimpleOrderSys.pdb
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.Form1.resources
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.Properties.Resources.resources
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.exe
+C:\Users\USER\OneDrive\桌面\Online Ordering System\SimpleOrderSys\obj\Debug\SimpleOrderSys.pdb
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.Form1.resources
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.Form2.resources
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.Properties.Resources.resources
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.exe
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\obj\Debug\SimpleOrderSys.pdb
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\bin\Debug\SimpleOrderSys.exe.config
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\bin\Debug\SimpleOrderSys.exe
+C:\Users\iSpan\Desktop\CSharp-WinForm-iSpan-Order\SimpleOrderSys\bin\Debug\SimpleOrderSys.pdb
